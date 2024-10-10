@@ -8,3 +8,4 @@ module "mysql_sg" {
     common_tags = var.common_tags
     sg_tags = var.mysql_sg_tags
 }
+
